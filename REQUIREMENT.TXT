@@ -1,0 +1,8 @@
+
+To set up and run the chatbot, you will need the following tools and libraries:
+
+Python 3.x: The programming language used for the entire project.
+Streamlit: A framework used to create the web interface for the chatbot.
+NLTK (Natural Language Toolkit): A library used for processing and analyzing human language data.
+scikit-learn: A machine learning library used to train and apply the text classification model.
+Local server setup: Required to run the Streamlit app locally and optionally expose it to the internet using tools like LocalTunnel.
